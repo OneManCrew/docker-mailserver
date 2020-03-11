@@ -34,4 +34,4 @@ The development workflow is the following:
 - When tests are green, a review may be done
 - When changed are validated, your branch is merged into `master`
 - `master` is automatically tested on Travis
-- Docker builds a new `latest` image
+- Docker builds a new `latest` image 
